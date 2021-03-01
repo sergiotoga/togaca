@@ -1,0 +1,38 @@
+#Principal{
+            border: solid 3px;
+            padding: 50px;
+            width: 80%;
+            margin:0 auto;
+            background: #bce8d1
+        }
+
+fieldset{
+    margin-bottom: 20px;
+}
+
+h1{ color:#1a4b19;}
+Legend{
+    color: #005e9c;
+    border: solid 1px #0000c5;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background: #a6daea
+}
+
+#foto{
+    margin: 5px;
+    border: solid 4px #cccccc
+}
+
+#estilotabla{
+    margin: 5px;
+    padding: 5px;
+    border: solid 1px #000000;
+}
+
+body{
+    background: url(FONDO.jpg);
+    background-size: 100%;
+    background-attachment:fixed;
+}
